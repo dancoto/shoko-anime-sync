@@ -1,0 +1,7 @@
+.git
+*.bak
+*local*
+simkl-anime-sync
+shoko-anime-sync
+.env
+config.yaml
